@@ -1,0 +1,34 @@
+
+===================================================
+**SITTF8 Supporting Plots**
+====================================================
+
+Before Filtering Plots 
+########################
+
+
+.. image:: ../SITTF8.mito.png
+  :width: 400
+  :alt: Before Filtering
+
+.. raw:: html
+
+   <br />
+
+.. image:: ../SITTF8.features.png
+  :width: 400
+  :alt: Before Filtering 
+ 
+.. raw:: html
+
+   <br />
+
+.. image:: ../SITTF8.mtpc.png  
+  :width: 400
+  :alt: F8  
+
+.. raw:: html
+
+   <br />
+
+
