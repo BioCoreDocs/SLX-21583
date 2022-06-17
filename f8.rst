@@ -3,32 +3,130 @@
 **SITTF8 Supporting Plots**
 ====================================================
 
+
+SITTF8 
+#######
+
 Before Filtering Plots 
-########################
+-------------------------
 
-
-.. image:: ../SITTF8.mito.png
+.. image:: SITTF8.mito.png
   :width: 400
-  :alt: Before Filtering
+  :alt: SITTF8 
 
 .. raw:: html
 
    <br />
 
-.. image:: ../SITTF8.features.png
+.. image:: SITTF8.features.png
   :width: 400
-  :alt: Before Filtering 
+  :alt: SITTF8  
  
 .. raw:: html
 
    <br />
 
-.. image:: ../SITTF8.mtpc.png  
+.. image:: SITTF8.mtpc.png  
   :width: 400
-  :alt: F8  
+  :alt: SITTF8 
 
 .. raw:: html
 
    <br />
+
+
+.. image:: SITTF8.QC.png
+  :width: 400
+  :alt: SITTF8 
+
+.. raw:: html
+
+   <br />
+
+
+
+.. image:: SITTF8.complexity.png
+     :width: 400
+  :alt: SITTF8 
+
+.. raw:: html
+
+   <br />
+
+
+
+.. image:: SITTF8.complexity_diff.png
+  :width: 400
+  :alt: SITTF8 
+
+.. raw:: html
+
+   <br />
+
+
+After Filtering
+-----------------
+
+.. image:: SITTF8.rmito.png
+  :width: 400
+  :alt: SITTF8 
+
+.. raw:: html
+
+   <br />
+
+.. image:: SITTF8.rfeatures.png
+  :width: 400
+  :alt: SITTF8  
+ 
+.. raw:: html
+
+   <br />
+
+.. image:: SITTF8.rmtpc.png  
+  :width: 400
+  :alt: SITTF8 
+
+.. raw:: html
+
+   <br />
+
+.. image:: SITTF8.rcomplexity.png
+  :width: 400
+  :alt: SITTF8 
+
+.. raw:: html
+
+   <br />
+
+
+
+.. image:: SITTF8.rcomplexity_diff.png
+  :width: 400
+  :alt: SITTF8 
+
+.. raw:: html
+
+   <br />
+
+.. image:: SITTF8.rQC.png
+     :width: 400
+  :alt: SITTF8 
+
+.. raw:: html
+
+   <br />
+
+After Normalization 
+---------------------
+
+.. image:: SITTF8.feature_selection.png
+        :width: 400
+  :alt: SITTF8 
+
+.. raw:: html
+
+   <br />
+
 
 
